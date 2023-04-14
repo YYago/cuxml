@@ -1,6 +1,6 @@
 {
   "name": "cuxml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to help use ribbon UI for your WPS Office Client JS add-in project.",
   "keywords": [
     "wps office",
@@ -16,11 +16,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/YYago/cuxml.git"
-  },
   "license": "ISC",
+  "homepage": "https://github.com/YYago/cuxml/README.md",
+  "bugs": {
+    "url": "https://github.com/YYago/cuxml/issues"
+  },
   "dependencies": {
     "chokidar": "^3.5.3",
     "commander": "^10.0.0",
