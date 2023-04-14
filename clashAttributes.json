@@ -1,0 +1,21 @@
+{
+    "crashs":[
+        ["label","getLabel"],
+        ["description","getDescription"],
+        ["id","idQ","idMso"],
+        ["visible","getVisible"],
+        ["size","getSize"],
+        ["image","getImage","imageMso"],
+        ["insertAfterMso","insertAfterQ","insertBeforeMso","insertBeforeQ"],
+        ["supertip","getSupertip"],
+        ["screentip","getScreentip"],
+        ["keytip","getKeytip"],
+        ["enabled","getEnabled"],
+        ["showImage","getShowImage"],
+        ["showLabel","getShowLabel"],
+        ["title","getTitle"],
+        ["itemHeight","getItemHeight"],
+        ["getSelectedItemID","getSelectedItemIndex"],
+        ["itemWidth","getItemWidth"]
+    ]
+}

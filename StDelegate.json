@@ -1,0 +1,222 @@
+{
+    "box": [
+        "getVisible"
+    ],
+    "button": [
+        "getDescription",
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSize",
+        "getSupertip",
+        "getVisible",
+        "onAction"
+    ],
+    "buttonGroup": [
+        "getVisible"
+    ],
+    "checkBox": [
+        "getDescription",
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getPressed",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSupertip",
+        "getVisible",
+        "onAction"
+    ],
+    "comboBox": [
+        "getEnabled",
+        "getImage",
+        "getItemCount",
+        "getItemID",
+        "getItemImage",
+        "getItemLabel",
+        "getItemScreentip",
+        "getItemSupertip",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSupertip",
+        "getText",
+        "getVisible",
+        "onChange"
+    ],
+    "command": [
+        "getEnabled",
+        "onAction"
+    ],
+    "control": [
+        "getDescription",
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSize",
+        "getSupertip",
+        "getVisible",
+        "onAction"
+    ],
+    "customUI": [
+        "loadImage",
+        "onLoad"
+    ],
+    "dropDown": [
+        "getEnabled",
+        "getImage",
+        "getItemCount",
+        "getItemID",
+        "getItemImage",
+        "getItemLabel",
+        "getItemScreentip",
+        "getItemSupertip",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getSelectedItemID",
+        "getSelectedItemIndex",
+        "getShowImage",
+        "getShowLabel",
+        "getSupertip",
+        "getVisible",
+        "onAction"
+    ],
+    "dynamicMenu": [
+        "getContent",
+        "getDescription",
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSize",
+        "getSupertip",
+        "getVisible"
+    ],
+    "editBox": [
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSupertip",
+        "getText",
+        "getVisible",
+        "onChange"
+    ],
+    "gallery": [
+        "getDescription",
+        "getEnabled",
+        "getImage",
+        "getItemCount",
+        "getItemHeight",
+        "getItemID",
+        "getItemImage",
+        "getItemLabel",
+        "getItemScreentip",
+        "getItemSupertip",
+        "getItemWidth",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getSelectedItemID",
+        "getSelectedItemIndex",
+        "getShowImage",
+        "getShowLabel",
+        "getSize",
+        "getSupertip",
+        "getVisible",
+        "onAction"
+    ],
+    "group": [
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getSupertip",
+        "getVisible"
+    ],
+    "labelControl": [
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSupertip",
+        "getVisible"
+    ],
+    "menu": [
+        "getDescription",
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSize",
+        "getSupertip",
+        "getTitle",
+        "getVisible"
+    ],
+    "menuSeparator": [
+        "getTitle"
+    ],
+    "separator": [
+        "getVisible"
+    ],
+    "splitButton": [
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSize",
+        "getSupertip",
+        "getVisible"
+    ],
+    "tab": [
+        "getKeytip",
+        "getLabel",
+        "getVisible"
+    ],
+    "tabSet": [
+        "getVisible"
+    ],
+    "toggleButton": [
+        "getDescription",
+        "getEnabled",
+        "getImage",
+        "getKeytip",
+        "getLabel",
+        "getPressed",
+        "getScreentip",
+        "getShowImage",
+        "getShowLabel",
+        "getSize",
+        "getSupertip",
+        "getVisible",
+        "onAction"
+    ]
+}

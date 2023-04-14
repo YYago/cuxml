@@ -1,0 +1,118 @@
+[
+    {
+        "n": "getVisible",
+        "t": "string"
+    },
+    {
+        "n": "getDescription",
+        "t": "string"
+    },
+    {
+        "n": "getEnabled",
+        "t": "string"
+    },
+    {
+        "n": "getImage",
+        "t": "string"
+    },
+    {
+        "n": "getKeytip",
+        "t": "string"
+    },
+    {
+        "n": "getLabel",
+        "t": "string"
+    },
+    {
+        "n": "getScreentip",
+        "t": "string"
+    },
+    {
+        "n": "getShowImage",
+        "t": "string"
+    },
+    {
+        "n": "getShowLabel",
+        "t": "string"
+    },
+    {
+        "n": "getSize",
+        "t": "string"
+    },
+    {
+        "n": "getSupertip",
+        "t": "string"
+    },
+    {
+        "n": "onAction",
+        "t": "string"
+    },
+    {
+        "n": "getPressed",
+        "t": "string"
+    },
+    {
+        "n": "getItemCount",
+        "t": "string"
+    },
+    {
+        "n": "getItemID",
+        "t": "string"
+    },
+    {
+        "n": "getItemImage",
+        "t": "string"
+    },
+    {
+        "n": "getItemLabel",
+        "t": "string"
+    },
+    {
+        "n": "getItemScreentip",
+        "t": "string"
+    },
+    {
+        "n": "getItemSupertip",
+        "t": "string"
+    },
+    {
+        "n": "getText",
+        "t": "string"
+    },
+    {
+        "n": "onChange",
+        "t": "string"
+    },
+    {
+        "n": "loadImage",
+        "t": "string"
+    },
+    {
+        "n": "onLoad",
+        "t": "string"
+    },
+    {
+        "n": "getSelectedItemID",
+        "t": "string"
+    },
+    {
+        "n": "getSelectedItemIndex",
+        "t": "string"
+    },
+    {
+        "n": "getContent",
+        "t": "string"
+    },
+    {
+        "n": "getItemHeight",
+        "t": "string"
+    },
+    {
+        "n": "getItemWidth",
+        "t": "string"
+    },
+    {
+        "n": "getTitle",
+        "t": "string"
+    }
+]
